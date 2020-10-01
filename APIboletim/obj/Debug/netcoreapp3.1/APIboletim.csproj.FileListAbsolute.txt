@@ -1,0 +1,12 @@
+C:\Users\giova\source\repos\APIboletim\APIboletim\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\giova\source\repos\APIboletim\APIboletim\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\giova\source\repos\APIboletim\APIboletim\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\giova\source\repos\APIboletim\APIboletim\bin\Debug\netcoreapp3.1\APIboletim.exe
+C:\Users\giova\source\repos\APIboletim\APIboletim\obj\Debug\netcoreapp3.1\APIboletim.csprojAssemblyReference.cache
+C:\Users\giova\source\repos\APIboletim\APIboletim\obj\Debug\netcoreapp3.1\APIboletim.AssemblyInfoInputs.cache
+C:\Users\giova\source\repos\APIboletim\APIboletim\obj\Debug\netcoreapp3.1\APIboletim.AssemblyInfo.cs
+C:\Users\giova\source\repos\APIboletim\APIboletim\obj\Debug\netcoreapp3.1\APIboletim.RazorTargetAssemblyInfo.cache
+C:\Users\giova\source\repos\APIboletim\APIboletim\obj\Debug\netcoreapp3.1\staticwebassets\APIboletim.StaticWebAssets.Manifest.cache
+C:\Users\giova\source\repos\APIboletim\APIboletim\obj\Debug\netcoreapp3.1\staticwebassets\APIboletim.StaticWebAssets.xml
+C:\Users\giova\source\repos\APIboletim\APIboletim\obj\Debug\netcoreapp3.1\APIboletim.csproj.CoreCompileInputs.cache
+C:\Users\giova\source\repos\APIboletim\APIboletim\obj\Debug\netcoreapp3.1\APIboletim.MvcApplicationPartsAssemblyInfo.cache
