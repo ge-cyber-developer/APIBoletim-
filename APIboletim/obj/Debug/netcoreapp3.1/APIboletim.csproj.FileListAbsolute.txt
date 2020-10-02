@@ -10,3 +10,10 @@ C:\Users\giova\source\repos\APIboletim\APIboletim\obj\Debug\netcoreapp3.1\static
 C:\Users\giova\source\repos\APIboletim\APIboletim\obj\Debug\netcoreapp3.1\staticwebassets\APIboletim.StaticWebAssets.xml
 C:\Users\giova\source\repos\APIboletim\APIboletim\obj\Debug\netcoreapp3.1\APIboletim.csproj.CoreCompileInputs.cache
 C:\Users\giova\source\repos\APIboletim\APIboletim\obj\Debug\netcoreapp3.1\APIboletim.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\giova\source\repos\APIboletim\APIboletim\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\giova\source\repos\APIboletim\APIboletim\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\giova\source\repos\APIboletim\APIboletim\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\giova\source\repos\APIboletim\APIboletim\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\giova\source\repos\APIboletim\APIboletim\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\giova\source\repos\APIboletim\APIboletim\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\giova\source\repos\APIboletim\APIboletim\obj\Debug\netcoreapp3.1\APIboletim.csproj.CopyComplete
